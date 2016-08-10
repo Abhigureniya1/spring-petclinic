@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-
+/* Added a comment to test */
 package org.springframework.samples.petclinic.util;
 
 import java.util.Collection;
